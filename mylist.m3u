@@ -152,6 +152,10 @@ https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Sky Sport
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="国际",Sky One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
+#EXTINF:-1 group-title="国际",NetFlix Movie
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="国际",Outdoor Channel

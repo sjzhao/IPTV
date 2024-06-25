@@ -86,6 +86,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="国际",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",Disney International
@@ -158,6 +160,22 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="国际",New KPOP 
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Billiards TV 
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",La La Life 
+https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Viki 
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Thriller 
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten British Films 
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="国际",Outdoor Channel
 http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
 #EXTINF:-1 tvg-id="OxygenEast.us" group-title="国际",Oxygen True Crime
@@ -253,3 +271,83 @@ http://31.134.132.245:8080/hustler_hd/index.m3u8ips
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
 #EXTINF:-1, Extasy 4K
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
+#EXTINF:-1 group-title="成人",Русская 
+http://188.113.190.15/318/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="成人",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="成人",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",Nubiles TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6238/index.m3u
+#EXTINF:-1 group-title="成人",Naughty America
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6237/index.m3u
+#EXTINF:-1 group-title="成人",Playboy Plus
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6242/index.m3u
+#EXTINF:-1 group-title="成人",Private HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6245/index.m3u
+#EXTINF:-1 group-title="成人",Public Agent
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6246/index.m3u
+#EXTINF:-1 group-title="成人",RK Prime
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6248/index.m3u
+#EXTINF:-1 group-title="成人",Tiny4K
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6258/index.m3u
+#EXTINF:-1 group-title="成人",True Amateurs
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6260/index.m3u
+#EXTINF:-1 group-title="成人",Hard X
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6218/index.m3u
+#EXTINF:-1 group-title="成人",Hands on Hardcore
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6217/index.m3u
+#EXTINF:-1 group-title="成人",Got MYLF
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6216/index.m3u
+#EXTINF:-1 group-title="成人",Dorcel Club
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6197/index.m3u
+#EXTINF:-1 group-title="成人",Digital Playground HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6196/index.m3u
+#EXTINF:-1 group-title="成人",Dusk
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6198/index.m3u
+#EXTINF:-1 group-title="成人",Evil Angel HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6199/index.m3u
+#EXTINF:-1 group-title="成人",Digital Desire HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6195/index.m3u
+#EXTINF:-1 group-title="成人",DDF Network
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6194/index.m3u
+#EXTINF:-1 group-title="成人",DDF Busty
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6193/index.m3u
+#EXTINF:-1 group-title="成人",Cum Louder
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6189/index.m3u
+#EXTINF:-1 group-title="成人",Brazzers eXXtra
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6181/index.m3u
+#EXTINF:-1 group-title="成人",Blacked HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6178/index.m3u
+#EXTINF:-1 group-title="成人",Bang!
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6174/index.m3u
+#EXTINF:-1 group-title="成人",Bang Bros HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6173/index.m3u
+#EXTINF:-1 group-title="成人",Babes TV HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6172/index.m3u
+#EXTINF:-1 group-title="成人",Cherry Pimps
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6185/index.m3u
+#EXTINF:-1 group-title="成人",Club 17
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6186/index.m3u
+#EXTINF:-1 group-title="成人",Day with a Pornstar
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6192/index.m3u
+#EXTINF:-1 group-title="成人",Hitzefrei HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6220/index.m3u
+#EXTINF:-1 group-title="成人",Lethal Hardcore
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6229/index.m3u
+#EXTINF:-1 group-title="成人",MetArt HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6233/index.m3u
+#EXTINF:-1 group-title="成人",Vivid Red HD
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2162/index.m3u
+#EXTINF:-1 group-title="成人",Adult Time
+http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6166/index.m3u

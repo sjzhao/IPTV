@@ -13,6 +13,14 @@ http://170.254.18.106/AMC/index.m3u8
 http://38.96.178.201:80/live/TNTHD/index.m3u8
 #EXTINF:-1 group-title="国际",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="国际",TNT
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="国际",TNT HD
+https://z02.ubtvfans.com/live/rx3/1524/c4ac4270be08a04afaeb129bbf098a98/index.m3u8
+#EXTINF:-1 group-title="国际",TNT HD
+http://91.205.199.3/tnthd/index.m3u8
+#EXTINF:-1 group-title="国际",TNT HD
+http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN HD
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN

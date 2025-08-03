@@ -19,24 +19,6 @@ http://38.96.178.201:80/live/ESPNHD/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="Adult",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="Adult",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="Adult",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="Adult",Eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Leo HD
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",RK HD
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
-#EXTM3U
 #EXTINF:-1 group-title="国际",无线新闻1
 https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1753977057&token=202863f7d4d6f897ed7b9f218e9a1c88
 #EXTINF:-1 group-title="国际",无线新闻2
@@ -54,38 +36,64 @@ https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%
 #EXTINF:-1 group-title="国际",莲花卫视
 https://stream.iptv-search.com/main.php?id=%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86&t=1752825547&token=5d2a9b7d556a0148260168aa2a2ce43f
 #EXTINF:-1 group-title="国际",东森新闻
-https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1752825547&token=59ff2311d99e2b68da5f24ad3cd71a09
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1753977057&token=cb83e2b821f19b0f60f391144d0c8c88
 #EXTINF:-1 group-title="国际",东森美洲
 https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E7%BE%8E%E5%9B%BD&t=1752825547&token=59e5569292975dbeb6b377099a817955
 #EXTINF:-1 group-title="国际",台视新闻
-https://stream.iptv-search.com/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB+HD&t=1752825547&token=05ba5975565a304d8dd31b608c51fe92
+https://stream.iptv-search.com/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB+HD&t=1753977057&token=dcef5448645e4181b51d127d0437237b
 #EXTINF:-1 group-title="国际",民视新闻
-https://stream.iptv-search.com/main.php?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E+HD&t=1752825547&token=d218ea89c09fea4709b510150486af6f
-#EXTINF:-1 group-title="国际",公视新闻
-https://stream.iptv-search.com/main.php?id=%E5%85%AC%E8%A7%86&t=1752825547&token=2df2f22e22d17ab30416d5b7189a8c2b
+https://stream.iptv-search.com/main.php?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E+HD&t=1753977057&token=57f185c3c9ce3d49f26d37e3dbcdfeb5
 #EXTINF:-1 group-title="国际",TVBS高清
-https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1752825547&token=054e63b280535f97823fbbb8be433e7f
-#EXTINF:-1 group-title="国际",TVBJ1
-https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1752825547&token=938a5e5c0ccbeac9a6a570711fd0314a
-#EXTINF:-1 group-title="国际",TVB翡翠台
-https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1752825547&token=26b438b6e85f0006fd654db5968818b5
+https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1753977057&token=2ab4cbf33963f3ae0e55c546b0e4720f
+#EXTINF:-1 group-title="国际",TVBS综合
+https://stream.iptv-search.com/main.php?id=Tvbs%E7%B6%9C%E5%90%88&t=1753977057&token=adc266797903809a5bd8fe0530031237
+#EXTINF:-1 group-title="国际",TVBS欢乐
+https://stream.iptv-search.com/main.php?id=TVBS%E6%AC%A2%E4%B9%90&t=1753977057&token=06956f9d9b91c97a374d419a623b026f
+#EXTINF:-1 group-title="国际",TVB翡翠台4k
+https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B04K&t=1753977057&token=8b070761083e0e81d76f6d56a1f6aa21
 #EXTINF:-1 group-title="国际",TVB明珠台
-https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1752825547&token=8197c49bd54b60714cdd219da1c9a2b7
-#EXTINF:-1 group-title="国际",东森戏剧
-https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&t=1752825547&token=fe3e98e1b7c017578c3ea3abb7e69fde
+https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1753977057&token=b3387fed8392630ce40b0506f418e23f
+#EXTINF:-1 group-title="国际",东森戏剧1
+https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87&t=1753977057&token=b1d4a704916528f7c88602f82f967ca7
+#EXTINF:-1 group-title="国际",东森戏剧2
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&t=1753977057&token=824b23ef241f62e976997343020a5ebf
 #EXTINF:-1 group-title="国际",东森电影
-https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&t=1752825547&token=e9679b09de43117b64ccacc7996bfa0d
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&t=1753977057&token=e561cbcccb926c9107c45d369dd57ba7
 #EXTINF:-1 group-title="国际",东森洋片
-https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1752825547&token=5929a48ca84bce13b46cb06d8b311bee
-#EXTINF:-1 group-title="国际",澳视澳门
-https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8&t=1752825547&token=9a7df7660db94345b3fe0227917847b6
-#EXTINF:-1 group-title="国际",美亚电影
-https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1752825547&token=75d31baf054a02ce77b706aff030468b
-#EXTINF:-1 group-title="国际",纬来电影
-https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1752825547&token=9ba1c0e30d7400654698cb8ffe0fea44
-#EXTINF:-1 group-title="国际",重温经典
-https://stream.iptv-search.com/main.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&t=1752825547&token=3a5be6964fa51e1a2b46437555b58750
-#EXTINF:-1 group-title="国际",星卫电影
-https://stream.iptv-search.com/main.php?id=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1&t=1752825547&token=29f36e2425ebf911301adf7c84d63642
-#EXTINF:-1 group-title="国际",东森综合
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1753977057&token=62031b529c6a7cf9e277dfce65f1a37d
+#EXTINF:-1 group-title="国际",东森综合1
 https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&t=1753977057&token=e10f402986bc2b93a976ddd2a71b835e
+#EXTINF:-1 group-title="国际",东森综合2
+https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88&t=1753977057&token=2f6066cfa9e10998a52ffac617db6752
+#EXTINF:-1 group-title="国际",美亚电影
+https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1753977057&token=5a944f62e77bd370d9fc3106c1399541
+#EXTINF:-1 group-title="国际",纬来电影1
+https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1&t=1753977057&token=cc705c0cc6efc6fb573b57f04978ad1b
+#EXTINF:-1 group-title="国际",纬来电影2
+https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1753977057&token=d9648af1de308641eca855f9c3b8cee9
+#EXTINF:-1 group-title="国际",重温经典
+https://stream.iptv-search.com/main.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&t=1753977057&token=9e5816180c354e85e37f3341665b99fe
+#EXTINF:-1 group-title="国际",星卫电影
+https://stream.iptv-search.com/main.php?id=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1&t=1753977057&token=9c4fa500efc72b7139935741e6cd3174
+#EXTINF:-1 group-title="国际",MBC
+https://stream.iptv-search.com/main.php?id=MBC&t=1753977057&token=56b86c7e2c357afc6ca9402c102a910f
+
+#EXTM3U
+#EXTINF:-1 group-title="Adult",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="Adult",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="Adult",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="Adult",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",RK HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Stingray Pop Adult
+https://stream.iptv-search.com/main.php?id=Stingray+Pop+Adult+%281080p%29&t=1753977057&token=8ffb03d0439ff2a70c1a5b4f226257fd

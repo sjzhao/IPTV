@@ -13,26 +13,28 @@ http://170.254.18.106/AMC/index.m3u8
 http://38.96.178.201:80/live/TNTHD/index.m3u8
 #EXTINF:-1 group-title="国际",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="国际",TNT
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="国际",TNT HD
-https://z02.ubtvfans.com/live/rx3/1524/c4ac4270be08a04afaeb129bbf098a98/index.m3u8
-#EXTINF:-1 group-title="国际",TNT HD
-http://91.205.199.3/tnthd/index.m3u8
-#EXTINF:-1 group-title="国际",TNT HD
-http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN HD
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 720p 1
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 720p 2
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 720p 3
-https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
-#EXTINF:-1 group-title="国际",ESPN 720p 4
-https://z02.ubtvfans.com/live/rx3/1182/984c3ecef3210c1a2b6dc3d0270b28c9/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Adult",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="Adult",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="Adult",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="Adult",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult",RK HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="国际",无线新闻

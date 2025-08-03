@@ -37,8 +37,10 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="国际",无线新闻
+#EXTINF:-1 group-title="国际",无线新闻1
 https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1753977057&token=202863f7d4d6f897ed7b9f218e9a1c88
+#EXTINF:-1 group-title="国际",无线新闻2
+https://stream.iptv-search.com/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1753977057&token=7f4494ff61e229a7bab2a5bda47df348
 #EXTINF:-1 group-title="国际",中天娱乐
 https://stream.iptv-search.com/main.php?id=%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82&t=1753977057&token=51512dc56f8c0121f174a20ea0a6b5d0
 #EXTINF:-1 group-title="国际",中天新闻

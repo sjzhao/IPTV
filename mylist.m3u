@@ -17,6 +17,16 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="国际",CBS Houston TX
+https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+#EXTINF:-1 group-title="国际",CBS HD
+http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1 group-title="国际",CBS New York
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="国际",CBS New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1 group-title="国际",CBS Boston
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="国际",无线新闻1

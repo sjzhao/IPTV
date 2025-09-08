@@ -37,6 +37,10 @@ http://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/m
 https://stream.iptv-search.com/main.php?id=CBS+East+%28720p%29&t=1757043017&token=ec6352d215e87ff5dbd61eca0ea33560
 #EXTINF:-1 group-title="国际",CBS East
 https://stream.iptv-search.com/main.php?id=CBS+East+%28720p%29&t=1755401429&token=eddb9e1acf780a6ecccda8bd1bb1d672
+#EXTINF:-1 group-title="国际",Paramount+picks
+https://stream.iptv-search.com/main.php?id=Paramount%2B+Picks&t=1757043017&token=87853a4c90ede05eae1ae8bd6065196e
+#EXTINF:-1 group-title="国际",Paramount east
+https://stream.iptv-search.com/main.php?id=Paramount+Network+East&t=1757043017&token=eb35f155bb0981135ef5db0d03a4a808
 
 
 #EXTM3U

@@ -401,21 +401,17 @@ http://panelguys.top:8080/txd7Fd/030774/9307
 #EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
 http://panelguys.top:8080/txd7Fd/030774/10289
 #EXTINF:-1 group-title="国际",HBO HD
-http://free.cnlive.club/channel/2d329e1c/index.m3u8?q=1752629214236
-#EXTINF:-1 group-title="国际",HBO HD 
-http://free.cnlive.club/channel/n41a855c1/index.m3u8?q=1752629214236
-#EXTINF:-1 group-title="国际",HBO HD
-http://cnlive.org/channel/n41a855c1/index.m3u8
-#EXTINF:-1 group-title="国际",HBO HD
-http://205.185.120.57:8081/channel/n24093c22/index.m3u8
-#EXTINF:-1 group-title="国际",HBO HD
 http://cnlive.org/channel/2d329e1c/index.m3u8
-#EXTINF:-1 group-title="国际",HBO West
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
+#EXTINF:-1 group-title="国际",HBO HITS
+http://cnlive.org/channel/nb44af6f/index.m3u8
 #EXTINF:-1 group-title="国际",HBO East HD
 http://panelguys.top:8080/txd7Fd/030774/46713
 #EXTINF:-1 group-title="国际",HBO 2
-http://panelguys.top:8080/txd7Fd/030774/57438
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Family
+http://cnlive.org/channel/n50b4438b/index.m3u8
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/46717
 #EXTINF:-1 group-title="国际",History Channel
@@ -516,25 +512,33 @@ http://panelguys.top:8080/txd7Fd/030774/46697
 #EXTINF:-1 group-title="国际",TVBS欢乐
 #https://stream.iptv-search.com/main.php?id=TVBS%E6%AC%A2%E4%B9%90&t=1753977057&token=06956f9d9b91c97a374d419a623b026f
 #EXTINF:-1 group-title="国际",TVB翡翠台4k
-#https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B04K&t=1753977057&token=8b070761083e0e81d76f6d56a1f6aa21
+https://live.tvfix.org/live/jade/index.m3u8
 #EXTINF:-1 group-title="国际",TVB明珠台
 #https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1753977057&token=b3387fed8392630ce40b0506f418e23f
 #EXTINF:-1 group-title="国际",东森戏剧1
-#https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87&t=1757043017&token=be3581c7b7634238e9e7c663dcb55f81
+http://cnlive.org/channel/n9e78d0/index.m3u8
 #EXTINF:-1 group-title="国际",东森戏剧2
-#https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87&t=1755401429&token=f92420014d216b1deac83226071b30bc
+http://122.117.71.103:8529/http/220.130.87.218:8081/hls/64/806/ch013.m3u8
 #EXTINF:-1 group-title="国际",东森电影
-#https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&t=1753977057&token=e561cbcccb926c9107c45d369dd57ba7
+http://cnlive.org/channel/7cb9a434/index.m3u8
+#EXTINF:-1 group-title="国际",东森电影
+http://cnlive.org/channel/n5502f4/index.m3u8
+#EXTINF:-1 group-title="国际",东森电影
+https://epg.pw/stream/05c7791a4d1db7ba680c3134464550eadb3c82b5fc870c210f38366804382de7.m3u8
 #EXTINF:-1 group-title="国际",东森洋片
-#https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1753977057&token=62031b529c6a7cf9e277dfce65f1a37d
+http://cnlive.org/channel/7cb8b9f4/index.m3u8
+#EXTINF:-1 group-title="国际",东森洋片
+http://cnlive.org/channel/n7160b4/index.m3u8
 #EXTINF:-1 group-title="国际",东森综合1
-#https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&t=1757043017&token=6963d9c7c3dac9f9f4e036233da29cf4
+http://cnlive.org/channel/n31b0a4/index.m3u8
 #EXTINF:-1 group-title="国际",东森综合2
-#https://stream.iptv-search.com/main.php?id=%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88&t=1757043017&token=88c3dc544746f72f0a39ec9c39d46835
+https://epg.pw/stream/1bf26eee56bae96461c6815d13947141356d866c8a5e5569063aa7ba90d03c2a.m3u8
 #EXTINF:-1 group-title="国际",美亚电影1
-#https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1757043017&token=3390a624126916e4077a177de420cabc
+http://cnlive.org/channel/n6d2f2fd2/index.m3u8
 #EXTINF:-1 group-title="国际",美亚电影2
-#https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1755401429&token=d16c1faf22bc43399eadf6057166fb38
+http://cnlive.org/channel/5824ef5e/index.m3u8
+#EXTINF:-1 group-title="国际",美亚电影3
+http://205.185.120.57:8081/channel/n5e6795b0/index.m3u8
 #EXTINF:-1 group-title="国际",纬来电影1
 #https://stream.iptv-search.com/main.php?id=%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1&t=1757043017&token=98566822599a65e389ffafbb55b99b70
 #EXTINF:-1 group-title="国际",纬来电影2

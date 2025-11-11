@@ -8,7 +8,7 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 group-title="国际",TBS 
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",TNT HD
-http://38.96.178.201:80/live/TNTHD/index.m3u8
+http://cnlive.org/channel/1fe0e79/index.m3u8
 #EXTINF:-1 group-title="国际",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",ESPN HD

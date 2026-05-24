@@ -11,6 +11,8 @@ http://143.244.60.30/TBS/index.m3u8
 http://cnlive.org/channel/1fe0e79/index.m3u8
 #EXTINF:-1 group-title="国际",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="国际",TruTV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3688.ts
 #EXTINF:-1 group-title="国际",ESPN HD
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN
